@@ -1,0 +1,27 @@
+*{
+    background-color:bisque;
+}
+h2{
+    color: black;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+}
+form{
+    text-align: center;
+    font-style: oblique;
+}
+.Uname{
+    color: black;
+    font-size: x-large;
+}
+.Password{
+    color: black;
+    font-size: x-large;
+}
+button{
+    color:black;
+    font-style: oblique;
+    font-size: x-large;
+    background-color:lightcoral;
+}
